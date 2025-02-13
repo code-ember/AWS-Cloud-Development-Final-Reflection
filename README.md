@@ -1,5 +1,5 @@
-# Full Stack Development II:
-Welcome to my CS-470 Final Reflection.
+CS-470 Final Reflection
+# Full Stack Development II: Final Reflection
 
 # Experiences and Strengths:
 This challenging yet rewarding course has pushed me to grow as a software developer. I have gained valuable skills in cloud development, including containerization and serverless architecture with AWS, which will benefit my future career. Learning full stack development and working with AWS features has deepened my understanding of cloud computing platforms and API gateways. This class emphasized the importance of mastering full stack development for a successful software development career. Constructive feedback from the course has further enhanced my programming skills.
