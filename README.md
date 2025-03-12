@@ -15,3 +15,5 @@ Scaling and error handling are significant advantages of microservices. Scaling 
 To manage cloud service costs, I would use AWS Cost Explorer to optimize expenses. Containers and serverless computing offer predictable costs compared to virtual servers, with serverless being more cost-effective by charging only for used resources. I prefer a serverless approach for its cost savings.
 
 When planning for expansion, pros include higher revenue and better positioning for future success, while cons involve time and logistical challenges. Elasticity is crucial in decision-making for planned growth, ensuring the application has necessary resources to meet demand. The pay-for-service model is simple, beneficial when using limited resources.
+
+## CS-470
